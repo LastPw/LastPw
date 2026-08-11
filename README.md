@@ -2,9 +2,9 @@
 
 # 👋 Hello, I'm Taha
 
-### ⚙️ Kernel & Operating System Developer
+### 🦀 Systems & Cybersecurity Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Operating+System+Developer;Kernel+Programming;Cybersecurity+Enthusiast;Linux+Administrator;Low-Level+Developer;Open+Source+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Systems+Developer;Rust+Developer;Operating+System+Development;Reverse+Engineering;Cybersecurity+Enthusiast;Linux+Developer;Low-Level+Programming;Open+Source+Developer"/>
 
 <br>
 
@@ -12,23 +12,26 @@
 
 </div>
 
+---
 
 # 🧑‍💻 About Me
 
-Hello! I'm Taha, a developer focused on understanding and building software from the lowest levels of computer systems to modern applications.
+Hello! I'm Taha, a developer focused on **systems programming, cybersecurity, reverse engineering, and low-level software development**.
 
-My main interests are:
+I enjoy understanding how software works beneath the surface — from operating systems and kernels to executable formats, networks, security mechanisms, and isolated execution environments.
 
-- ⚙️ Operating System Development
-- 🧠 Kernel Architecture
-- 🔐 Cybersecurity
-- 🐧 Linux Systems
-- 🌐 Networking
-- 💻 Software Engineering
-- 🚀 Open Source Development
+My main interests include:
 
+* 🦀 Rust & Systems Programming
+* ⚙️ Operating System Development
+* 🔍 Reverse Engineering
+* 🛡️ Cybersecurity & Malware Analysis
+* 🐧 Linux Systems
+* 🌐 Networking
+* 🧠 Computer Architecture
+* 🚀 Open Source Development
 
-I enjoy learning how computers work internally and creating projects that challenge my understanding of systems.
+I enjoy building challenging projects that force me to understand how computers and software actually work internally.
 
 ---
 
@@ -36,39 +39,35 @@ I enjoy learning how computers work internally and creating projects that challe
 
 Currently focusing on:
 
-
-Kernel Development
-Operating Systems
-System Programming
-Cybersecurity
-Linux Administration
-Networking
-Software Architecture
-
-
+* 🦀 Advanced Rust & Systems Programming
+* 🔍 Reverse Engineering
+* 🛡️ Malware Analysis
+* 🧪 Sandbox & Dynamic Analysis
+* 🤖 Machine Learning for Security
+* ⚙️ Operating System Development
+* 🐧 Linux Internals
+* 🌐 Networking & Security
+* 🧠 Computer Architecture
 
 ---
 
 # 🛠️ Skills & Technologies
 
-
 ## Programming Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,go,python,js,ts"/>
+<img src="https://skillicons.dev/icons?i=rust,c,go,python,js,ts"/>
 
 </p>
 
-
-## Frontend Development
+## Application & Web Development
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,vite"/>
 
 </p>
-
 
 ## Systems & Environment
 
@@ -78,123 +77,152 @@ Software Architecture
 
 </p>
 
-
 ---
 
-# ⚙️ System Development
+# ⚙️ Systems & Security
 
 Experience and interest in:
 
-
-✓ Kernel Development
-✓ Low-Level Programming
-✓ Memory Management
-✓ Computer Architecture
-✓ Operating System Concepts
-✓ Networking Fundamentals
-✓ Linux Internals
-
-
+* ✓ Systems Programming
+* ✓ Operating System Concepts
+* ✓ Kernel Development
+* ✓ Memory Management
+* ✓ Computer Architecture
+* ✓ Linux Internals
+* ✓ Networking
+* ✓ Reverse Engineering
+* ✓ Malware Analysis
+* ✓ Static & Dynamic Analysis
+* ✓ Security Tool Development
+* ✓ Isolated Execution & Sandboxing
 
 ---
 
 # 🚀 Featured Projects
 
-
 ## 🖥️ LastOS
 
-Operating system development project.
+An operating system development project focused on exploring low-level system architecture and kernel development.
 
-A project focused on exploring:
+Focus:
 
-- Kernel development
-- Low-level programming
-- System architecture
-- Operating system concepts
+* Kernel development
+* Memory management
+* System architecture
+* Low-level programming
+* Operating system concepts
 
 Repository:
 
 https://github.com/LastPw/last-os
 
-
 ---
 
 ## 💬 End-To-End Messenger
 
-A messaging application project.
+A messaging application exploring secure communication and networking concepts.
 
 Focus:
 
-- Communication systems
-- Networking concepts
-- Application development
+* Communication systems
+* Networking
+* Application development
+* Secure communication
 
 Repository:
 
 https://github.com/LastPw/end-to-end-massager
 
-
 ---
 
 ## ⚙️ Nexus32
 
-Low-level development project.
+A low-level development project focused on understanding computer architecture and system internals.
 
 Focus:
 
-- System programming
-- Architecture experiments
-- Learning computer internals
+* Systems programming
+* Architecture experiments
+* Low-level development
+* Computer internals
 
 Repository:
 
 https://github.com/LastPw/nexus32
 
-
 ---
 
 ## 🔍 Scanner For Site
 
-Security-related project.
+A security-focused project for automated web security analysis.
 
 Focus:
 
-- Web security
-- Automation
-- Security testing concepts
+* Web security
+* Security testing
+* Automation
+* Vulnerability analysis
 
 Repository:
 
 https://github.com/LastPw/scanner-for-site
 
+---
+
+# 🧪 Current Security Project
+
+## 🔬 Reverse Engineering & Malware Analysis Platform
+
+A cross-platform security analysis platform designed to combine:
+
+* Static binary analysis
+* Reverse engineering
+* PE / ELF / APK analysis
+* Malware detection using Machine Learning
+* Cryptographic & obfuscation analysis
+* Isolated sandbox execution
+* Real-time behavioral monitoring
+* Network & certificate analysis
+* Process and filesystem monitoring
+* IOC extraction
+* Static ↔ Dynamic behavior correlation
+
+Built with **Rust** with a strong focus on security, isolation, reliability, and cross-platform support.
+
+Target platforms:
+
+**Linux • Windows • macOS**
 
 ---
 
 # 📚 Knowledge Areas
-
 
 <table>
 
 <tr>
 <td>
 
-### Systems
+### ⚙️ Systems
 
-- Operating Systems
-- Linux
-- Kernel Concepts
-- Computer Architecture
+* Operating Systems
+* Rust Systems Programming
+* Linux
+* Kernel Concepts
+* Memory Management
+* Computer Architecture
 
 </td>
 
 <td>
 
-### Security
+### 🛡️ Security
 
-- Cybersecurity
-- Web Security
-- Security Tools
-- Networking
+* Cybersecurity
+* Reverse Engineering
+* Malware Analysis
+* Web Security
+* Network Security
+* Security Tooling
 
 </td>
 
@@ -204,22 +232,28 @@ https://github.com/LastPw/scanner-for-site
 
 <td>
 
-### Development
+### 🌐 Development
 
-- C/C++
-- Go
-- JavaScript
-- React
+* Rust
+* C
+* Go
+* Python
+* JavaScript
+* TypeScript
+* React
 
 </td>
 
 <td>
 
-### Tools
+### 🔧 Tools
 
-- Git
-- Linux CLI
-- Development Environments
+* Git
+* Linux CLI
+* Docker
+* VS Code
+* Virtual Machines
+* Security Tooling
 
 </td>
 
@@ -227,26 +261,21 @@ https://github.com/LastPw/scanner-for-site
 
 </table>
 
-
 ---
 
 # 📊 GitHub Statistics
-
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=LastPw&show_icons=true&theme=github_dark&hide_border=true"/>
 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LastPw&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
-
 ---
 
 # 🔥 Contribution Streak
-
 
 <div align="center">
 
@@ -254,11 +283,9 @@ https://github.com/LastPw/scanner-for-site
 
 </div>
 
-
 ---
 
 # 📈 Activity Graph
-
 
 <div align="center">
 
@@ -266,11 +293,9 @@ https://github.com/LastPw/scanner-for-site
 
 </div>
 
-
 ---
 
 # 🏆 GitHub Trophies
-
 
 <div align="center">
 
@@ -278,11 +303,9 @@ https://github.com/LastPw/scanner-for-site
 
 </div>
 
-
 ---
 
 # 🐍 Contribution Snake
-
 
 <div align="center">
 
@@ -290,25 +313,22 @@ https://github.com/LastPw/scanner-for-site
 
 </div>
 
-
 ---
 
 # 🌱 Goals
 
-
-
-Become better at system programming
-Build powerful open-source projects
-Improve cybersecurity knowledge
-Explore computer architecture
-Create useful software
-
-
+* Become an advanced Rust systems developer
+* Build serious cybersecurity tools
+* Improve reverse engineering skills
+* Develop reliable sandboxing technologies
+* Explore malware analysis and detection
+* Build powerful open-source systems
+* Deepen understanding of computer architecture
+* Create software that solves real problems
 
 ---
 
 # 📫 Contact
-
 
 <div align="center">
 
@@ -318,15 +338,13 @@ Create useful software
 
 </a>
 
-
 </div>
-
 
 ---
 
 <div align="center">
 
-## ⚡ Build • Break • Learn
+## ⚡ Build • Break • Understand • Secure
 
 ⭐ Thanks for visiting my profile
 
