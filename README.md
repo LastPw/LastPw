@@ -100,7 +100,7 @@ Experience and interest in:
 
 # 🚀 Featured Projects
 
-## 🖥️ LastOS
+## 🖥️ last-kernel
 
 An operating system development project focused on exploring low-level system architecture and kernel development.
 
@@ -114,7 +114,7 @@ Focus:
 
 Repository:
 
-https://github.com/LastPw/last-os
+https://github.com/LastPw/last-kernel
 
 ---
 
