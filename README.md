@@ -57,17 +57,11 @@ Currently focusing on:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,c,go,python,js,ts"/>
+<img src="https://skillicons.dev/icons?i=python,rust,go,c"/>
 
 </p>
 
-## Application & Web Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,vite"/>
-
-</p>
+---
 
 ## Systems & Environment
 
@@ -232,15 +226,12 @@ Target platforms:
 
 <td>
 
-### 🌐 Development
+### 💻 Programming
 
 * Rust
 * C
 * Go
 * Python
-* JavaScript
-* TypeScript
-* React
 
 </td>
 
